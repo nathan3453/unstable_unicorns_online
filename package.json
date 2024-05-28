@@ -1,0 +1,13 @@
+{
+  "name": "unstable-unicorn",
+  "version": "0.1.0",
+  "description": "Unstable Unicorn Game",
+  "private": true,
+  "scripts": {
+    "start": "node main.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^2.3.0"
+  }
+}
